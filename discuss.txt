@@ -1,0 +1,51 @@
+QMenuBar
+
+QGroupBox
+QHBoxLayout
+
+add layout to group box..  group box is a logical thing.
+
+QGridLayout
+QFormLayout
+
+
+QLabel
+
+QTextEdit
+
+
+
+
+
+
+READ
+-----
+
+QException
+how to pass arguments to slot.. using qsignal mapper.. ?
+
+
+
+
+Patient
+-------
+id, name, dob, id_type, id_num, mobile, email, additional_details
+
+
+TestReport
+---------
+id, patient, doctor, date, 
+
+
+Reference_Values
+-----------------
+
+parameter(string) <-> value(string)
+
+
+
+
+
+
+
+    
